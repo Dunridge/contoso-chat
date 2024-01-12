@@ -1,3 +1,6 @@
+# THE LINK WITH THE COMPLETE WALKTHROUGH -- https://youtu.be/1Z4sgjXTKkU?si=FnXj_UfvinHj8jF8
+
+
 # End to End LLM App development with Azure AI Studio and Prompt Flow
 
 ## Prerequisites
